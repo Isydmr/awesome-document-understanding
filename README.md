@@ -205,14 +205,15 @@ Big companies:
 
 Smaller:
 1. [Applica.ai](https://applica.ai/)
-1. [Docstack](https://www.docstack.com/ai-document-understanding)
-1. [Element AI](https://www.elementai.com/products/document-intelligence)
-1. [Indico](https://indico.io)
-1. [Konfuzio](https://konfuzio.com/en/)
-1. [Metamaze](https://metamaze.eu)
-1. [Nanonets](https://nanonets.com)
-1. [Rossum](https://rossum.ai/)
-1. [Silo](https://silo.ai/how-document-understanding-improves-invoice-contract-and-resume-processing/)
+2. [Base64.ai](https://base64.ai)
+3. [Docstack](https://www.docstack.com/ai-document-understanding)
+4. [Element AI](https://www.elementai.com/products/document-intelligence)
+5. [Indico](https://indico.io)
+6. [Konfuzio](https://konfuzio.com/en/)
+7. [Metamaze](https://metamaze.eu)
+8. [Nanonets](https://nanonets.com)
+9. [Rossum](https://rossum.ai/)
+10. [Silo](https://silo.ai/how-document-understanding-improves-invoice-contract-and-resume-processing/)
 
 # Examples
 
